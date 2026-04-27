@@ -23,7 +23,6 @@ try {
   return <h1>City not found</h1>
  }
  
-  console.log(data)
   setData(data)
   setError('')
 } 

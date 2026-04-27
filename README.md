@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App
 
 A React weather application that shows real-time weather data for any city in the world.
@@ -31,3 +32,7 @@ npm install
 
 ### Setup
 Create a `.env` file in the root directory:
+=======
+# weather-app
+A React weather application that shows real-time weather data for any city in the world.
+>>>>>>> 1272e1d2a41bf84d020c7f5a014e5bf2f89d43e4
