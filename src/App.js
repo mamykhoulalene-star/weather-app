@@ -28,7 +28,7 @@ try {
 } 
 
 
-catch (error) {
+catch (e) {
  setError('Something went wrong') 
 } finally{
   setLoading(false)
